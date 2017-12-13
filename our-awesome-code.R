@@ -1,5 +1,5 @@
 awesome_function_1 <- function(argument1) {
-    _______
+    _I'm really tired____
 }
 
 awesome_function_2 <- function(argument1) {
